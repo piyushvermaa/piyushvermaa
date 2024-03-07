@@ -1,14 +1,13 @@
+<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
+
 <h1 align="center">Hey Everyone 👋, I'm Piyush</h1>
-<h3 align="center">A passionate Web Developer  From India🇮🇳</h3>
-
-
+<h3 align="center">A passionate Web Developer  From India 🇮🇳</h3>
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 🔭 I’m currently working on ForgeNet-Labs<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br>
 
 <br>👨‍💻 All of my projects are available at https://github.com/piyushvermaa<br><br>📝 I regularly solving problems on https://leetcode.com/stellar07/<br><br>💬 Ask me about Javascript, React, Gsap and C++<br><br>📫 How to reach me piyushsoniiii.07@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/piyush-verma-883a26248
-
 
 ## 🌐 Socials:
 
@@ -32,20 +31,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushvermaa&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=piyushvermaa&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=piyushvermaa&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=piyushvermaa&icon=4&color=0)](https://visitcount.itsvg.in)
+
 
 
